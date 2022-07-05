@@ -9,3 +9,5 @@ After extracting the data, these are stored in a google spreadsheet where after 
 
 # Tableau
 Finally, the google spreadsheet serves as the database for a tableau view that will provide up-to-date inventory information to stakeholders or as a way to communicate analytical findings.
+
+![WhatsApp Image 2022-06-28 at 11 13 12 AM](https://user-images.githubusercontent.com/70334697/177383054-15a773f1-f275-4b06-8378-b8f288460be3.jpeg)
