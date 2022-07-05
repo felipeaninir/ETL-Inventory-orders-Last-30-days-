@@ -4,8 +4,8 @@ in the last 30 days that are being stored.
 
 It was necessary to iterate through each client and browse the JSON response of the orders to obtain the information of interest.
 
-#Google sheet
+# Google sheet
 After extracting the data, these are stored in a google spreadsheet where after each inventory update and subsequent advances the days, the information is rewritten in the spreadsheet
 
-#Tableau
+# Tableau
 Finally, the google spreadsheet serves as the database for a tableau view that will provide up-to-date inventory information to stakeholders or as a way to communicate analytical findings.
