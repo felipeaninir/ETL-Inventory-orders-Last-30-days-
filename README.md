@@ -1,4 +1,4 @@
-# ETL
+# mini ETL
 # Inventory and orders last-30-days
 API connection with WMS and OMS (Shipedge) platform that brings the current inventory to each client (fulfillment) to formulate the rotation of the products (SKU) in the last 30 days that are being stored.  
 
